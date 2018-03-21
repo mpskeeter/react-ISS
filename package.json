@@ -3,13 +3,21 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/googlemaps": "^3.30.8",
+    "@types/markerclustererplus": "^2.1.33",
     "axios": "^0.18.0",
+    "google-map-react": "^0.34.0",
+    "prop-types": "^15.6.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
+    "react-google-maps": "^9.4.5",
     "react-redux": "^5.0.7",
     "react-scripts": "1.1.1",
+    "recompose": "^0.26.0",
     "redux": "^3.7.2",
-    "redux-logger": "^3.0.6"
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.2.0",
+    "styled-components": "^3.2.3"
   },
   "scripts": {
     "start": "react-scripts start",
