@@ -26,8 +26,10 @@ class App extends Component {
         </header> */}
         <div className="App-intro">
           <div>Current Information From Space</div>
-          <Crew />
-          <Statistics />
+          <div>
+            <Crew />
+            <Statistics />
+          </div>
         </div>
       </div>
     );

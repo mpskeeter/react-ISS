@@ -60,7 +60,7 @@ const Map = compose(
         ))
       } */}
     </GoogleMap>
-  )
+  );
 });
 
 Map.propTypes = propTypes;
